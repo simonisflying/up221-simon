@@ -1,6 +1,6 @@
 # up221-simon
 ### Profile
-This is Simon Han's repository for UP221 - Intro to GIS and Spatial Data Science'. 
+This is Simon Han's repository for UP221 - Intro to GIS and Spatial Data Science. 
 I'm a first year MURP student. Formerly, I worked as a Landscape Desginer, and aspire to become a Transportation Planner. 
 
 ### Course Description
