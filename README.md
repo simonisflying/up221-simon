@@ -1,7 +1,7 @@
 # up221-simon
 ### Profile
 This is Simon Han's repository for UP221 - Intro to GIS and Spatial Data Science'. 
-I'm a student in the MURP Class of 2023. Formerly, I worked as a Landscape Desginer, and aspire to become a Transportation Planner. 
+I'm a student in the MURP Class of 2025. Formerly, I worked as a Landscape Desginer, and aspire to become a Transportation Planner. 
 
 ### Course Description
 The goal for this course is to expose you to the foundations of spatial data science. 
